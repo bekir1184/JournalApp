@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:textColor="@color/purple_700"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/date"
+        android:text="02.10.2020"
+        android:textSize="20dp"
+        android:layout_margin="10dp"
+        />
+    <TextView
+        android:id="@+id/content"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Lorem ipsum dolor sit amet, consectetur
+         adipiscing elit. Praesent ac dui risus. Ut et
+         iaculis mauris, non rutrum tellus. Morbi neque justo, laoreet ut
+          quam non, laoreet posuere augue. Nam vel nisl sed metus bibendum
+          iaculis. Etiam id vulputate arcu. Pellentesque congue, orci a
+          rutrum vestibulum, nisl magna rutrum sem, sed facilisis tortor
+          enim id neque. Vivamus ornare neque at hendrerit porttitor.
+          Praesent tincidunt ultricies suscipit. Pellentesque luctus
+          scelerisque justo vel porttitor. Etiam malesuada est in sapien
+          hendrerit bibendum et sed massa. Vivamus nibh nulla, convallis
+          sit amet lobortis a, commodo quis mi
+         . Phasellus pellentesque urna justo, id ultrices ex egestas quis."/>
+
+
+
+</LinearLayout>
