@@ -1,6 +1,6 @@
 # JournalApp
 [![Build with android](https://forthebadge.com/images/badges/built-for-android.svg)](https://www.android.com/)
-[![Language max %](https://img.shields.io/github/languages/top/bekir1184/RecipeApp.svg?colorB=orange&style=for-the-badge)](https://kotlinlang.org/)
+[![Language max %](https://img.shields.io/github/languages/top/bekir1184/JournalApp.svg?colorB=orange&style=for-the-badge)](https://kotlinlang.org/)
 
 Diary application using SQlite
 
